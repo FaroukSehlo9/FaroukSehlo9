@@ -1,23 +1,29 @@
-# Hi there! I'm Farouk 👋
+<h1 align="center">Hi 👋, I'm Farouk Abu Bakr Farouk Abdel-Samie</h1>
+<h3 align="center">Software Engineer</h3>
 
-### 🚀 About Me
-- [cite_start]🔭 I’m currently working on improving my coding skills and building real-world projects. 
-- [cite_start]🌱 I’m currently learning advanced web development techniques. [cite: 4, 36]
-- 💬 Ask me about anything related to HTML, CSS, or JS.
-- [cite_start]⚡ Fun fact: I love solving logical puzzles and building clean UIs. [cite: 36]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farouksehlo9&label=Profile%20views&color=0e75b6&style=flat" alt="farouksehlo9" /> </p>
 
-### 🛠 Tech Stack
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farouksehlo9" alt="farouksehlo9" /></a> </p>
+
+- 🔭 I’m currently working on [E-Commerce](https://github.com/FaroukSehlo9/ECommerce.API.git)
+
+- 👯 I’m looking to collaborate on **web applications**
+
+- 👨‍💻 All of my projects are available at [https://github.com/FaroukSehlo9](https://github.com/FaroukSehlo9)
+
+- 📫 How to reach me **farouksehlo9@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+<a href="https://linkedin.com/in/farouk-sehlo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farouk-sehlo" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/farouksehlo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farouksehlo" height="30" width="40" /></a>
 </p>
 
-### 📊 GitHub Stats
-![Farouk's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaroukSehlo9&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukSehlo9&layout=compact&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farouk-sehlo-5a4680305/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUy%2BQBPu9StatkOfuiOGWRw%3D%3D)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farouksehlo9&show_icons=true&locale=en&layout=compact" alt="farouksehlo9" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farouksehlo9&show_icons=true&locale=en" alt="farouksehlo9" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farouksehlo9&" alt="farouksehlo9" /></p>

@@ -1,9 +1,7 @@
 # Hi there! I'm Farouk 👋
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farouksehlo9&label=Profile%20views&color=0e75b6&style=flat" alt="farouksehlo9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farouksehlo9" alt="farouksehlo9" /></a> </p>
 
 - 🔭 I’m currently working on [E-Commerce](https://github.com/FaroukSehlo9/ECommerce.API.git)
 

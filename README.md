@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farouk Abu Bakr Farouk Abdel-Samie</h1>
+# Hi there! I'm Farouk 👋
 <h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farouksehlo9&label=Profile%20views&color=0e75b6&style=flat" alt="farouksehlo9" /> </p>

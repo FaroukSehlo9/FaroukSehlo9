@@ -27,3 +27,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farouksehlo9&" alt="farouksehlo9" /></p>
 
 [📄 GasAdvance_Tech_Doc.pdf (PDF)](https://github.com/FaroukSehlo9/FaroukSehlo9/blob/main/GasAdvance.pdf)
+
+
+[📄 HealthCare_Tech_Do.pdf (PDF)](https://github.com/FaroukSehlo9/FaroukSehlo9/blob/main/HealthCare.pdf)
+

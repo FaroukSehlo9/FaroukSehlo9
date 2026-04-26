@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farouksehlo9&show_icons=true&locale=en" alt="farouksehlo9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farouksehlo9&" alt="farouksehlo9" /></p>
+
+[📄 Download Project Portfolio (PDF)](https://github.com/FaroukSehlo9/FaroukSehlo9/blob/main/GasAdvance.pdf)
